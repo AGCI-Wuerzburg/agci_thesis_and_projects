@@ -47,7 +47,7 @@ This is a curated list of frequently asked questions for a thesis with __Prof. D
     
 * What is the expected output of the thesis?
     
-    First and foremost, we expect the paper to adhere to scientific standards. The ultimate ambition should be to have the work in a form ready for submission to a workshop or conference. A submission to a workshop or conference will be considered in grading.
+    First and foremost, we expect the thesis to adhere to scientific standards. The ultimate ambition should be to have the work in a form ready for submission to a workshop or conference. A submission to a workshop or conference will be considered in grading.
     
 * How long should my thesis be?
   
