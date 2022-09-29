@@ -72,6 +72,7 @@ This is a curated list of frequently asked questions for a thesis with __Prof. D
 * Can I provide own topics or do an industry topic?
 
     Yes, it is possible. Please submit a proposal and present the topic in advance. For industry topics, we strongly recommend the 5-month deadline and/or prior employment with the company. Please also check the special requirements for ML/DL topics.
+    Furthermore, it is necessary to fill out the [confirmation form](https://github.com/AGCI-Wuerzburg/agci_thesis_and_projects/blob/82b9f5a06f7ae6a0daf2fb472a8d3a36ad3691fa/Company_Confirmation.pdf) in German or English. In case the thesis should only be disclosed to the first and second reviewers and authorized members of the board of examiners, please fill out the [confidential clause](https://github.com/AGCI-Wuerzburg/agci_thesis_and_projects/blob/fbe7d7433499ece478a0f664a852e1e07952a30a/Company_Confidential_Clause.pdf). This text should be on the first pages of the thesis (not the title page). Please note that for legal reasons, the University cannot sign other forms of NDAs.
     
 * Are there special requirements for ML/DL topics?
     
