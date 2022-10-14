@@ -10,7 +10,7 @@ This is a curated list of frequently asked questions for a thesis with __Prof. D
 
     1. Read through all the provided documents and this FAQ list
     2. Get in touch with Prof. Dr. rer. nat. habil. Frank-Michael Schleif
-    3. Submit a topic proposal (see the files in this repository for guidelines)
+    3. Submit a topic proposal ([see the proposal guidelines in the repository](https://github.com/AGCI-Wuerzburg/agci_thesis_and_projects/blob/main/proposal.md))
     4. Discuss the proposal with us
     5. We will officially register the thesis topic with you
 
